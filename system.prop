@@ -117,3 +117,4 @@ ro.fastbootd.available=true
 
 # Graphics
 debug.renderengine.backend=skiaglthreaded
+persist.sys.activity_anim_perf_override=true
